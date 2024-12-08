@@ -1,0 +1,7 @@
+v 4
+file . "Problema6_TB.vhdl" "f4f7d334c6f17f1e278aa981c4269a2c6ea2ef94" "20241208194826.133":
+  entity tb_demux4x1 at 1( 0) + 0 on 13;
+  architecture behavior of tb_demux4x1 at 8( 119) + 0 on 14;
+file . "Problema6.vhdl" "4a21d8df1408c7992000dafcd00f0001b7e4e537" "20241208194821.994":
+  entity demux4x1 at 1( 0) + 0 on 11;
+  architecture demultiplexer4x1 of demux4x1 at 12( 186) + 0 on 12;
