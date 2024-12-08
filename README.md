@@ -9,10 +9,10 @@ cum rulam codul:
 deschidem un terminal in vscode care se afla in folderul cu proiecte sau deschizi un terminal in windows/linux si intri in folderul respectiv
 
 rulezi urmatoarele comenzi
-ghdl -a (numele fiserului).vhdl
-ghdl -a (numele fisierului test bench).vhdl
-ghdl -e (nuemle entitatii declarata in fisierul test bench)
-ghdl -r (nuemle entitatii declarata in fisierul test bench) --vcd=demux.vcd 
+ghdl -a (numele fiserului).vhdl;
+ghdl -a (numele fisierului test bench).vhdl;
+ghdl -e (nuemle entitatii declarata in fisierul test bench);
+ghdl -r (nuemle entitatii declarata in fisierul test bench) --vcd=demux.vcd;
 
 ar trebuii sa se creeze 2 fisiere noi 
 unu in care se salveaza configurarea pe care ghdl o creaza 
