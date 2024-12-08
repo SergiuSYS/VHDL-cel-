@@ -1,0 +1,24 @@
+v 4
+file . "8BitAdder.vhdl" "3ad7b88a63a68397b810298d2f57eb3344a77346" "20241208215541.773":
+  entity fulladder at 1( 0) + 0 on 25;
+  architecture behavioral of fulladder at 11( 150) + 0 on 26;
+  entity fulladder4bit at 21( 298) + 0 on 27;
+  architecture structural of fulladder4bit at 33( 535) + 0 on 28;
+  entity fulladder8bit at 54( 1038) + 0 on 29;
+  architecture structural of fulladder8bit at 66( 1275) + 0 on 30;
+file . "Problema3.vhdl" "65fb941c37838adf726d26ba81f2b06491e09ed3" "20241208210851.379":
+  entity ci1 at 1( 0) + 0 on 17;
+  architecture structural of ci1 at 11( 134) + 0 on 18;
+  entity ci2 at 16( 220) + 0 on 19;
+  architecture structural of ci2 at 26( 348) + 0 on 20;
+  entity ci3 at 31( 422) + 0 on 21;
+  architecture structural of ci3 at 41( 556) + 0 on 22;
+  entity ctot at 46( 640) + 0 on 23;
+  architecture structural of ctot at 56( 783) + 0 on 24;
+file . "Problema5.vhdl" "849b0a74ebe602dcfe82a27eefd00982907d68e0" "20241208220511.860":
+  entity mux2x1 at 1( 0) + 0 on 61;
+  architecture structural of mux2x1 at 13( 171) + 0 on 62;
+  entity mux4x1 at 22( 279) + 0 on 63;
+  architecture structural of mux4x1 at 34( 469) + 0 on 64;
+  entity mux8x1 at 46( 692) + 0 on 65;
+  architecture structural of mux8x1 at 57( 905) + 0 on 66;
