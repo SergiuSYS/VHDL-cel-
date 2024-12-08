@@ -4,7 +4,8 @@
 pentru mai multe informati despre vhdl si cum functioneaza si ce face fiecare 
 chestie va puteti uita la cursul 2 (videoclip) de pe campus sau va uitati in laboratorul 1_2 de pe campus
 
-cum rulam codul 
+cum rulam codul:
+
 deschidem un terminal in vscode care se afla in folderul cu proiecte sau deschizi un terminal in windows/linux si intri in folderul respectiv
 
 rulezi urmatoarele comenzi
