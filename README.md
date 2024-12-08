@@ -17,4 +17,10 @@ ghdl -r (nuemle entitatii declarata in fisierul test bench) --vcd=demux.vcd
 ar trebuii sa se creeze 2 fisiere noi 
 unu in care se salveaza configurarea pe care ghdl o creaza 
 si unu pentru a rula coudul in gtkwave
+
+
+EXEMPLU FACUT CU PROBLEMA 6 
 ![Alt text](imagine.png)
+
+sau daca nu aveti chef de asa ceva ii dati codul la chatgpt si va spune deca este bun sau nu :) 
+sau va uitati peste https://youtu.be/H2GyAIYwZbw?si=PCQ1pZmOvqhQdbjN ca explica bine si aplicati pe codul vostru 
