@@ -7,7 +7,7 @@ entity LatchD is
     );
 end LatchD;
 
-architecture LatchD of LatchD is
+architecture structural of LatchD is
 begin
     process(EN, D)
     begin
@@ -17,7 +17,7 @@ begin
             Q <= '0'; 
         end if;
     end process;
-end LatchD;
+end structural;
 
 -- ============================================================
 
