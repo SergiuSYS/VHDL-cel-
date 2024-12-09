@@ -1,0 +1,10 @@
+v 4
+file / "/home/sergiu/Faculta/Semestrul_1/VHDL/proiect1/ModelTest1.vhdl" "ca220a1cef0a3940ab38483b5b97707f8314e032" "20241209173459.196":
+  entity circuit_3 at 1( 0) + 0 on 25;
+  architecture structural of circuit_3 at 11( 138) + 0 on 26;
+  entity demux4x1 at 16( 232) + 0 on 27;
+  architecture structural of demux4x1 at 26( 390) + 0 on 28;
+  entity jkbistabil at 34( 589) + 0 on 29;
+  architecture structural of jkbistabil at 44( 735) + 0 on 30;
+  entity my_circuit at 64( 1252) + 0 on 31;
+  architecture structural of my_circuit at 74( 1422) + 0 on 32;
